@@ -1,0 +1,82 @@
+<ion-menu side="start" menuId="first">
+  <ion-header>
+    <ion-toolbar color="primary">
+      <ion-title>Menú de inicio</ion-title>
+    </ion-toolbar>
+  </ion-header>
+  <ion-content>
+    <ion-list>
+      <ion-item>Gatos</ion-item>
+      <ion-item>Perros</ion-item>
+      <ion-item>Pájaros</ion-item>
+      <ion-item>Hurones</ion-item>
+      <ion-item>Osos</ion-item>
+    </ion-list>
+  </ion-content>
+</ion-menu>
+<ion-menu side="start" menuId="custom" class="my-custom-menu">
+  <ion-header>
+    <ion-toolbar color="tertiary">
+      <ion-title>Menú personalizado</ion-title>
+    </ion-toolbar>
+  </ion-header>
+  <ion-content>
+    <ion-list>
+      <ion-item>Tomates</ion-item>
+      <ion-item>Lechugas</ion-item>
+      <ion-item>Cebollas</ion-item>
+      <ion-item>Calabazas</ion-item>
+      <ion-item>Pepinos</ion-item>
+    </ion-list>
+  </ion-content>
+</ion-menu>
+<ion-menu side="end" type="push">
+  <ion-header>
+    <ion-toolbar color="danger">
+      <ion-title>Inicio</ion-title>
+    </ion-toolbar>
+  </ion-header>
+  <ion-content>
+    <ion-list>
+      <ion-item>Ajustes</ion-item>
+      <ion-item>Mi cuenta</ion-item>
+      <ion-item>Usuarios</ion-item>
+      <ion-item>Vídeos</ion-item>
+      <ion-item>Publicaciones</ion-item>
+    </ion-list>
+  </ion-content>
+</ion-menu>
+<ion-router-outlet main></ion-router-outlet>
+
+
+
+
+<ion-header [translucent]="true">
+
+
+  <ion-toolbar>
+
+    <ion-title>
+     Inicio
+    </ion-title>
+
+  </ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true">
+
+  <!-- <ion-header collapse="condense">
+    <ion-toolbar>
+      <ion-title size="large">Tab 1-1</ion-title>
+    </ion-toolbar>
+  </ion-header>
+
+  <app-explore-container name="Tab 1 page"></app-explore-container> -->
+
+  <h3>Titulo 3</h3>
+<!-- https://ionicframework.com/docs/api/button -->
+  <ion-button shape="round" color="success">Round</ion-button>
+
+  <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quasi eos corporis voluptatem est.
+    Ex sequi amet accusamus est magnam quia eveniet, qui recusandae sint quae quisquam, voluptatibus, magni quo sed!</p>
+</ion-content>

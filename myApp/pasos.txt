@@ -1,0 +1,33 @@
+https://ionicframework.com/docs/cli/configuration
+
+https://cordova.apache.org/#getstarted
+
+
+
+
+para visualizar y --lab en distintos dipositivos
+ionic serve --lab
+
+npm install
+
+https://youtu.be/duekybtjLck?list=PLPl81lqbj-4IzylAHYigeNB_Pob2WGGEG&t=226
+
+https://youtu.be/g05fPJezC-w?list=PLPl81lqbj-4IzylAHYigeNB_Pob2WGGEG&t=11
+
+https://youtu.be/hnoBhpZebT4?list=PLPl81lqbj-4IzylAHYigeNB_Pob2WGGEG&t=1
+
+https://ionicframework.com/docs/api/button
+
+para los inconos
+https://ionic.io/ionicons?_gl=1*193qr5r*_ga*MzA1MTIzNjQwLjE2NzcyNzkzNDc.*_ga_REH9TJF6KF*MTY3NzMzMTE1Mi4zLjEuMTY3NzMzMjQzNS4wLjAuMA..
+
+para generar una nueva pagina
+
+ionic generate page buscar
+
+https://youtu.be/dqm9joLpOM0?list=PLPl81lqbj-4IzylAHYigeNB_Pob2WGGEG&t=54
+
+ionic g c menu
+
+npm install -g @ionic/cli
+
